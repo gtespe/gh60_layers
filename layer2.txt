@@ -1,0 +1,6 @@
+["~\n`","F1","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12",{w:2},"Backspace"],
+[{w:1.5},"Tab","Q","Up","E","R","T","Y","U","I","O","Print Screen","Home","PgUp",{w:1.5},"|\n\\"],
+[{w:1.75},"Esc","Left","Down","Right","F","G","H","J","K","Insert","End","PgDn",{w:2.25},"Enter"],
+[{w:2.25},"LShift","Z","X","C","V","B","N","F13","F14","F15","F16",{w:1.75},"RShift",{w:1},"Del"],
+[{w:1.25},"LCtrl",{w:1.25},"LWin",{w:1.25},"LAlt",{a:7,w:6.25},"Space",{a:4,w:1.25},"RAlt",{w:1.25},"RWin",{w:1.25},"RCtrl",{w:1.25},"Fn0"]
+
